@@ -3501,7 +3501,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "liblog",
                 "libtensorflowlite_jni_vendor",
-                "libtensorflowlite_gpu_jni",
+                "libtensorflowlite_gpu_jni_vendor",
                 "libsky_seg_320",
                 "libsky_cls_320",
                 "libm",
@@ -3621,7 +3621,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "liblog",
                 "libtensorflowlite_jni_vendor",
-                "libtensorflowlite_gpu_jni",
+                "libtensorflowlite_gpu_jni_vendor",
                 "libtflite_model_depurple_544_544",
                 "libm",
                 "libdl",
